@@ -148,7 +148,7 @@ body {
 }
 
 .contact-content h2 {
-    color: #f08527;
+    color: #e442b3;
 }
 
 .contact-content p {
@@ -208,9 +208,9 @@ a:hover, a:active {
 .hero-content .btn, .hero-content .btn:visited  {
     width: 100%;
     max-width: 260px;
-    background: #74b44a;
+    background: #e442b3;
     color: #1b1b27;
-    border: 2px solid #74b44a;
+    border: 2px solid #e442b3;
     border-radius: 12px;
     padding: 12px 24px;
     font-family: 'Roboto Condensed', sans-serif;
@@ -228,17 +228,17 @@ a:hover, a:active {
     border: 2px solid #333333;
 }
 .hero-content .btn:hover, .hero-content .btn:active {
-    background: #333333;
+    background: #74b44a;
     color: #F1F1F1;
-    border: 2px solid #666666;
+    border: 2px solid #74b44a;
 }
 
 .btn, .btn:visited  {
     width: 100%;
     max-width: 180px;
-    background: #f08527;
+    background: #e442b3;
     color: #1b1b27;
-    border: 2px solid #f08527;
+    border: 2px solid #e442b3;
     border-radius: 12px;
     padding: 12px 24px;
     font-family: 'Roboto Condensed', sans-serif;
